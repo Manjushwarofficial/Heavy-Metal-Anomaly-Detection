@@ -5,8 +5,11 @@ Detecting anomalies in geochemical data.
 
 ## Screenshots
 <img width="1280" height="832" alt="Screenshot 2026-04-29 at 4 16 29 PM" src="https://github.com/user-attachments/assets/6b5c50b6-a04a-4f9c-8df9-68f96793f7bf" />
+<br>
 <img width="1780" height="491" alt="step1_raw_distributions" src="https://github.com/user-attachments/assets/2ca4861c-aadf-41b8-80af-5dddde951be2" />
+<br>
 <img width="1780" height="943" alt="step2_log_transformation" src="https://github.com/user-attachments/assets/69d6ecbc-93ef-4717-9c09-132af47c2c53" />
+<br>
 <img width="1540" height="590" alt="step3_boxplot_comparison" src="https://github.com/user-attachments/assets/8fa46f4b-3be7-4c27-9c54-a1c4b315fa92" />
 
 
